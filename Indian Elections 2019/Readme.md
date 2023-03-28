@@ -1,3 +1,5 @@
+Predicted the winner or losser for Indian Election 2019 by classification technique using feature selection method.
+
 Key Points:
 
 Data Preprocessing- Removed the null values and used various
